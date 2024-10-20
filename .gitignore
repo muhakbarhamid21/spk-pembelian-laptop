@@ -1,0 +1,15 @@
+# Ignore all files except version-controlled files
+/vendor/
+/node_modules/
+/env/
+/cache/
+/logs/
+/*.env
+/.idea/
+/*.log
+/*.zip
+/*.sql
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
